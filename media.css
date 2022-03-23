@@ -16,11 +16,14 @@
         min-height:1000px;
         min-width:480px;
         padding-bottom:5%;
-        font-size:medium;
+        
     }
 
     .imagem_container{
         height:40vh;
+    }
+    .info_container{
+        font-size:16px;
     }
 
     .main .sub_main{
